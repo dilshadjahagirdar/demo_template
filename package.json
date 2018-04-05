@@ -4,6 +4,9 @@
   "version": "3.3.7+1",
   "homepage": "http://startbootstrap.com/template-overviews/creative",
   "author": "Start Bootstrap",
+  "scripts": {
+    "start": "node app.js"
+  },
   "engines": {
     "node": "4.2.6",
     "npm": "3.5.2"
